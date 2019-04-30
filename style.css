@@ -1,0 +1,54 @@
+body {
+    background-color: hsl(219, 22%, 15%);;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+.title {
+    padding: 10px;
+}
+
+.subtitle {
+    padding: 10px;
+}
+
+.header { 
+    padding: 10px;
+}
+
+.avatar {
+    max-height: 120px;
+    clip-path: circle(60px at center);
+}
+
+.links {
+    max-width: 50%; 
+    display: flex;
+    margin-left: 50%;
+    transform: translate(-50%);
+}
+
+.social_link {
+    flex: 33%;
+}
+
+.instagram_logo {
+
+}
+
+.twitter_logo {
+
+}
+
+.stackexchange_logo {
+
+}
